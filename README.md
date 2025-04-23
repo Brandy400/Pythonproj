@@ -13,4 +13,4 @@ This project presents a modern and visually appealing **Digital Clock** applicat
 
 ---
 
-Let me know if you want to include it in the Word file too!
+
