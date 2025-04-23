@@ -13,4 +13,8 @@ This project presents a modern and visually appealing **Digital Clock** applicat
 
 ---
 
+Made by:-
 
+Name - Saransh Upadhyay
+SAP - 590011290
+Batch 11
